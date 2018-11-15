@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx.cs](./CS/PassParametersToWebReport/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/PassParametersToWebReport/Default.aspx.vb))
+* [XtraReport1.cs](./CS/PassParametersToWebReport/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/PassParametersToWebReport/XtraReport1.vb))
+<!-- default file list end -->
 # How to: Pass parameters to a web report using the ASPxWebDocumentViewer control 
 
 
