@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [WebForm1.aspx](./CS/ParametersPanel/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/ParametersPanel/WebForm1.aspx))
-* [WebForm1.aspx.cs](./CS/ParametersPanel/WebForm1.aspx.cs) (VB: [WebForm1.aspx](./VB/ParametersPanel/WebForm1.aspx))
+* [WebForm1.aspx.cs](./CS/ParametersPanel/WebForm1.aspx.cs) (VB: [WebForm1.aspx.vb](./VB/ParametersPanel/WebForm1.aspx.vb))
 * [XtraReport1.cs](./CS/ParametersPanel/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/ParametersPanel/XtraReport1.vb))
 <!-- default file list end -->
 # How to: Pass parameters to a web report using the ASPxWebDocumentViewer control 
