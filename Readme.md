@@ -6,6 +6,9 @@
 * [XtraReport1.cs](./CS/ParametersPanel/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/ParametersPanel/XtraReport1.vb))
 <!-- default file list end -->
 # How to: Pass parameters to a web report using the ASPxWebDocumentViewer control 
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4461)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to pass parameters to a web report in the older <strong>ReportViewer</strong> control.</p>
