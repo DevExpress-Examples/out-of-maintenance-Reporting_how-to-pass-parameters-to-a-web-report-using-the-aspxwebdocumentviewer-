@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # How to: Pass parameters to a web report using the ASPxWebDocumentViewer control 
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4461)**
+**[[Run Online]](https://codecentral.devexpress.com/e4461/)**
 <!-- run online end -->
 
 
